@@ -39,4 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<p align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=singhpri30&show_icons=true&theme=cobalt" />
+  <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhpri30&theme=nightowl&layout=compact" />
+</p>
