@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-<!--
-**singhpri30/singhpri30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I am Priyanka Singh a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/priyanka-singh-94014719/) and view my [my portfolio](https://singhpri30.github.io/Portfolio_1/)
+### I am Priyanka Singh, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/priyanka-singh-94014719/) and can view [my portfolio](https://singhpri30.github.io/Portfolio_1/)
 
 
 ### Languages and Tools:
@@ -35,8 +21,7 @@ Here are some ideas to get you started:
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
   <img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> 
 </p>
- <img src="https://img.shields.io/badge/react-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> 
-</p>
+ 
 
 
 <p align="center">
