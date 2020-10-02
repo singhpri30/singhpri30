@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-### I am Priyanka Singh, a Full Stack Web Developer. You can reach me on [linkedin](https://www.linkedin.com/in/priyanka-singh-94014719/) and can view [my portfolio](https://singhpri30.github.io/Portfolio_1/)
+### I am Priyanka Singh, a Full Stack Web Developer. I love to paint in my spare time. You can reach me on [linkedin](https://www.linkedin.com/in/priyanka-singh-94014719/) and can view [my portfolio](https://laughing-beaver-beb436.netlify.app/)
 
+- 🔭 I am currently working as Full Stack Web Developer Intern
+- 🌱 I am currently learning Python, React Native and AWS Services
+- 🥅 2021 Goals: Build some projects with Python and learn TypeScript
+- ⚡ Fun fact: I love to paint
 
 ### Languages and Tools:
 <p align="center">
