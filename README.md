@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Build some projects with Python and learn TypeScript
 - ⚡ Fun fact: I love to paint
 
+
 ### Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -32,3 +33,6 @@
   <img alt="Github Stats" src="https://github-readme-stats-1-git-master.singhpri30.vercel.app/api?username=singhpri30&show_icons=true&theme=synthwave" />
   <img align="top" alt="Most used languages" src="https://github-readme-stats-1-git-master.singhpri30.vercel.app//api/top-langs/?username=singhpri30&theme=nightowl&layout=compact" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
