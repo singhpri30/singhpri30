@@ -30,5 +30,5 @@
 
 <p align="center">
   <img alt="Github Stats" src="https://github-readme-stats-1-git-master.singhpri30.vercel.app/api?username=singhpri30&show_icons=true&theme=synthwave" />
-  <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhpri30&theme=nightowl&layout=compact" />
+  <img align="top" alt="Most used languages" src="https://github-readme-stats-1-git-master.singhpri30.vercel.app//api/top-langs/?username=singhpri30&theme=nightowl&layout=compact" />
 </p>
