@@ -44,4 +44,4 @@ Other        2 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-https://wakatime.com/@singhpri30/projects/txgjnqzitx?start=2020-09-27&end=2020-10-03
+
