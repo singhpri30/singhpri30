@@ -36,7 +36,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   44 mins         █████████████████████████   99.91 % 
+Python       44 mins         ██████████▒░░░░░░░░░░░░░░   41.41 % 
+JavaScript   32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.43 % 
+JSON         30 mins         ███████░░░░░░░░░░░░░░░░░░   28.16 % 
 ```
 <!--END_SECTION:waka-->
 
